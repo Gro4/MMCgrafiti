@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "titol": "Mona Lisa",
+    "autor": "Leonardo da Vinci",
+    "autor2": "Anònim",
+    "url" : "./fotos/monalisa1.png",
+    "url2": "./fotos/monalisa2.png"
+  },
+  {
+    "id": 2,
+    "titol": "El jurament dels Horacis",
+    "autor": "Jaques-Louis David",
+     "autor2": "Anònim",
+    "url" : "./fotos/jurament1.png",
+    "url2":"./fotos/jurament2.png"
+    
+  },
+  {
+    "id": 3,
+    "titol": "La nit estelada",
+    "autor": "Vincent van Gogh",
+     "autor2": "Anònim",
+    "url" : "./fotos/nitestelada1.png",
+    "url2":"./fotos/nitestelada2.png"
+    
+  },
+  {
+    "id": 4,
+    "titol": "El naixement de Venus",
+    "autor": "Sandro Botticelli",
+     "autor2": "Anònim",
+    "url" : "./fotos/naixement1.png",
+    "url2":"./fotos/naixement2.png"
+    
+  },
+    {
+    "id": 5,
+    "titol": "Guernica",
+    "autor": "Pablo Picasso",
+     "autor2": "Anònim",
+    "url" : "./fotos/guernica1.png",
+    "url2":"./fotos/guernica2.png"
+  },
+      {
+    "id": 6,
+    "titol": "La llibertat guiant al poble",
+    "autor": "Eugène Delacroix",
+     "autor2": "Anònim",
+    "url" : "./fotos/llibertatpoble1.png",
+    "url2":"./fotos/llibertatpoble2.png"
+  },
+      {
+    "id": 7,
+    "titol": "Saturn devorant a un fill",
+    "autor": "Francisco de Goya",
+     "autor2": "Anònim",
+    "url" : "./fotos/saturn1.png",
+    "url2":"./fotos/saturn2.png"
+  },
+      {
+    "id": 8,
+    "titol": "La noia de la perla",
+    "autor": "Johannes Vermeer",
+     "autor2": "Anònim",
+    "url" : "./fotos/noiaperla2.png",
+    "url2":"./fotos/noiaperla1.png"
+  },
+        {
+    "id": 9,
+    "titol": "Les menines",
+    "autor": "Diego Velázquez",
+     "autor2": "Anònim",
+    "url" : "./fotos/menines1.png",
+    "url2":"./fotos/menines2.png"
+  },
+          {
+    "id": 10,
+    "titol": "El rai de la medusa",
+    "autor": "Théodore Géricault",
+     "autor2": "Anònim",
+    "url" : "./fotos/rai2.png",
+    "url2":"./fotos/rai1.png"
+  }
+]
